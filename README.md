@@ -1,8 +1,5 @@
 # CSV-to-OpenImmo converter
 
-[![Latest Stable Version](https://poser.pugx.org/oliverklee/csv_to_openimmo/v/stable.svg)](https://packagist.org/packages/oliverklee/csv_to_openimmo)
-[![Total Downloads](https://poser.pugx.org/oliverklee/csv_to_openimmo/downloads.svg)](https://packagist.org/packages/oliverklee/csv_to_openimmo)
-[![Latest Unstable Version](https://poser.pugx.org/oliverklee/csv_to_openimmo/v/unstable.svg)](https://packagist.org/packages/oliverklee/csv_to_openimmo)
 [![License](https://poser.pugx.org/oliverklee/csv_to_openimmo/license.svg)](https://packagist.org/packages/oliverklee/csv_to_openimmo)
 
 This TYPO3 extension provides a Scheduler task that reads zipped CSV files
